@@ -11,21 +11,21 @@ const testimonials = [
     id: 1,
     name: 'Rajesh Kumar',
     role: 'Parent',
-    quote: 'Gulshan Educational Welfare Society has provided my children with an exceptional learning environment. The teachers are attentive and the curriculum is comprehensive.',
+    quote: 'Dvm Utthan Sansthan Society has provided my children with an exceptional learning environment. The teachers are attentive and the curriculum is comprehensive.',
     image: 'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg'
   },
   {
     id: 2,
     name: 'Priya Sharma',
     role: 'Former Student',
-    quote: 'My years at Gulshan laid the foundation for my success. The institution\'s focus on both academics and personal development prepared me for the challenges of the real world.',
+    quote: 'My years at DVM laid the foundation for my success. The institution\'s focus on both academics and personal development prepared me for the challenges of the real world.',
     image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg'
   },
   {
     id: 3,
     name: 'Anand Patel',
     role: 'Teacher',
-    quote: 'The nurturing and supportive teaching environment and commitment to excellence makes Gulshan Educational Welfare Society stand out.',
+    quote: 'The nurturing and supportive teaching environment and commitment to excellence makes Dvm Utthan Sansthan stand out.',
     image: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg'
   }
 ];
